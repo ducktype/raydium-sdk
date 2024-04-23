@@ -54,6 +54,9 @@
     "lodash": "^4.17.21",
     "toformat": "^2.0.0"
   },
+  "overrides": {
+    "bn.js": "github:ExodusMovement/bn.js-bigint"
+  },
   "devDependencies": {
     "@babel/core": "^7.23.3",
     "@babel/preset-env": "^7.23.3",
